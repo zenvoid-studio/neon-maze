@@ -1,0 +1,7 @@
+game/.import/
+game/export.cfg
+game/export_presets.cfg
+
+*.translation
+
+game/.mono/
